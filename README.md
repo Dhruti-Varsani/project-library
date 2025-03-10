@@ -1,1 +1,3 @@
-<h3> Project on library management </h3>
+<h3> Library management </h3>
+
+<p>Project on the management system of library</p>
